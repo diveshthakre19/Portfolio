@@ -61,7 +61,6 @@ p{
 }
 
 .hero{
-  /* background-color:#4595d0; */
    background-color: #10141e75;
    margin: 5rem 0;
 }
@@ -236,6 +235,10 @@ align-items: center;
  .card:hover img{
   background-color: rgba(140, 141, 159, 0.597);
   transform: translatey(-1rem);
+ }
+
+ .thumbnail{
+  width: 32rem;
  }
 
  .card:hover{
